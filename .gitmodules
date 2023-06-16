@@ -1,4 +1,4 @@
 [submodule "maytime"]
 	path = maytime
-	url = https://gitlab.akhcheck.ru/aleksandr.vronskii/maytime
-    branch = checkpoint_1
+	url = https://github.com/DavydenkoGr/maytime-laborday
+    branch = master

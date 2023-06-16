@@ -17,7 +17,7 @@ Use ready-made annotations to test your applications.
 Before all, clone Maytime-laborday in your workspace and run mvn install command:
 
 ```
-git clone https://gitlab.akhcheck.ru/grigorii.davydenko/maytime-laborday.git
+git clone https://github.com/DavydenkoGr/maytime-laborday
 cd maytime-laborday
 git submodule update --recursive
 mvn install
@@ -68,8 +68,8 @@ If you use classes from different sources, use @MaytimeTestSources annotation to
 ### Authors:
 
 - *Davydenko Grigorii*
-  - GitLab: *@grigorii.davydenko*
+  - GitHub: *@DavydenkoGr*
   - Telegram: *@desertSmoke42*
 - *Vronskii Alexander*
-    - GitLab: *@aleksandr.vronskii*
-    - Telegram: *@asvronsky*
+  - GitHub: *@asvronsky*
+  - Telegram: *@asvronsky*
