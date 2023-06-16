@@ -1,4 +1,4 @@
 [submodule "maytime"]
 	path = maytime
-	url = https://github.com/DavydenkoGr/maytime-laborday
+	url = https://github.com/DavydenkoGr/maytime
     branch = master
